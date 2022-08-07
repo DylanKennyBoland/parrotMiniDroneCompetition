@@ -1,7 +1,1 @@
-# UCDrone parrotMinidroneCompetition
-This repository tracks our parrotMinidroneCompetition project work.
-
-Our submitted version is in 2019_Master branch (runs on MATLAB 2019b)
-
-Useful competition links:  https://uk.mathworks.com/videos/mathworks-minidrone-competition-competition-arena-1551802694222.html
-
+This repo. contains most of the files for our submission to the 2020 MathWorks Mini Drone Competition. Our novel approach was sufficient to beat out such teams as Cambridge University, Imperial College London, and the University of Salento.
